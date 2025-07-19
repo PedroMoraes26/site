@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a master's student at the Federal University of Pernambuco - PIMES/UFPE. I hold a BA in economics from UFPE.
+Hello! I am a master's student at the Federal University of Pernambuco - PIMES/UFPE and research fellow at the Group of Evaluation of Public and Economic Policies (GAPPE). I also hold a BA in economics from UFPE.
 
 
 My main research interest includes labor, crime and development economics.
